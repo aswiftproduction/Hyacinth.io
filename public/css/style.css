@@ -1,0 +1,20 @@
+body {
+    color: white
+}
+#myNav {
+    background-color: black;
+    color: white;
+}
+
+#primaryCard {
+    width: 50%;
+    height: 100%;
+    color: white;
+    background-color: #b61edc;
+    text-align: center;
+}
+
+#primarySection{
+    background-color: #9d28e7;
+    color: white;
+}
